@@ -11,6 +11,7 @@
 		B1960C922A52790700C5C0CD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1960C912A52790700C5C0CD /* ContentView.swift */; };
 		B1960C942A52790900C5C0CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1960C932A52790900C5C0CD /* Assets.xcassets */; };
 		B1960C972A52790900C5C0CD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1960C962A52790900C5C0CD /* Preview Assets.xcassets */; };
+		B1960C9E2A527CC000C5C0CD /* Second View.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1960C9D2A527CC000C5C0CD /* Second View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B1960C912A52790700C5C0CD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B1960C932A52790900C5C0CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1960C962A52790900C5C0CD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B1960C9D2A527CC000C5C0CD /* Second View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Second View.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B1960C8F2A52790700C5C0CD /* Github_DemoApp.swift */,
 				B1960C912A52790700C5C0CD /* ContentView.swift */,
+				B1960C9D2A527CC000C5C0CD /* Second View.swift */,
 				B1960C932A52790900C5C0CD /* Assets.xcassets */,
 				B1960C952A52790900C5C0CD /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1960C922A52790700C5C0CD /* ContentView.swift in Sources */,
+				B1960C9E2A527CC000C5C0CD /* Second View.swift in Sources */,
 				B1960C902A52790700C5C0CD /* Github_DemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
